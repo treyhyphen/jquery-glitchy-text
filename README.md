@@ -6,7 +6,7 @@ Plugin for jQuery that animates a glitch effect with the text within an element 
 
 ```
 <pre id="text">
-password
+drink the sea
 </pre>
 
 <script>
